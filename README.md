@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DBLiarte
 - 👀 I’m interested in bioinformatics, data science and design
-- 🌱 I’m currently learning software engineer
+- 🌱 I’m always learning...
 - 💞️ I’m looking to collaborate on biological and computacional science
 - 📫 How to reach me: danielbliarte@gmail.com
 
